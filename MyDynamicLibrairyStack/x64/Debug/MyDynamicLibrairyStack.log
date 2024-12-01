@@ -1,0 +1,6 @@
+﻿  pch.cpp
+C:\Users\issaf\Desktop\C++\MyDynamicLibrairyStack\Stack.h(97): warning C4715: 'Stack<char>::Pop' : les chemins de contrôle ne retournent pas tous une valeur
+  StackList.cpp
+  dllmain.cpp
+  Génération de code en cours...
+  MyDynamicLibrairyStack.vcxproj -> C:\Users\issaf\Desktop\C++\ClassStack\x64\Debug\MyDynamicLibrairyStack.dll
